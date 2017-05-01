@@ -1,0 +1,9 @@
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\bin\Debug\netcoreapp1.0\VisualStudioFeatures.deps.json
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\bin\Debug\netcoreapp1.0\VisualStudioFeatures.runtimeconfig.json
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\bin\Debug\netcoreapp1.0\VisualStudioFeatures.runtimeconfig.dev.json
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\bin\Debug\netcoreapp1.0\VisualStudioFeatures.dll
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\bin\Debug\netcoreapp1.0\VisualStudioFeatures.pdb
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\obj\Debug\netcoreapp1.0\VisualStudioFeatures.csprojResolveAssemblyReference.cache
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\obj\Debug\netcoreapp1.0\VisualStudioFeatures.AssemblyInfo.cs
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\obj\Debug\netcoreapp1.0\VisualStudioFeatures.dll
+C:\Users\Priscilla\Downloads\dotnet-workbook-master\start\VisualStudioFeatures\src\VisualStudioFeatures\obj\Debug\netcoreapp1.0\VisualStudioFeatures.pdb
